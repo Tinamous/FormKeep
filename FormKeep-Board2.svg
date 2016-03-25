@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="520mm"
+   height="1180mm"
+   viewBox="0 0 1842.5197 4181.1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="FormKeep-Board2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="629.18193"
+     inkscape:cy="1495.9918"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1335"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3128.7405)">
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138"
+       width="230.31496"
+       height="53.149605"
+       x="-336.61417"
+       y="362.81558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-340.65479"
+       y="345.56522"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="-340.65479"
+         y="345.56522">Route (3-6mm)</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144"
+       width="230.31496"
+       height="53.149605"
+       x="-336.61417"
+       y="485.8988" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-336.61417"
+       y="475.71976"
+       id="text4146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="-336.61417"
+         y="475.71976">Cut</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000fe;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4150"
+       width="230.31496"
+       height="53.149605"
+       x="-335.604"
+       y="625.06696" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-338.63446"
+       y="602.29968"
+       id="text4152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154"
+         x="-338.63446"
+         y="602.29968">Layout</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1.5540986"
+       y="-3310.5674"
+       id="text4156"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="1.5540986"
+         y="-3310.5674">Board 2 :: Top Unit (12MM MDF) - 600x1120 (allows 40mm top/bottom for screws)</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4162"
+       width="138.189"
+       height="138.18898"
+       x="1.7716513"
+       y="1061.9039" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4162-7"
+       width="138.18901"
+       height="138.189"
+       x="-6.8719926"
+       y="-3266.25" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4162-9"
+       width="138.18901"
+       height="138.189"
+       x="1704.927"
+       y="-3267.96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4162-74"
+       width="138.18901"
+       height="138.189"
+       x="1706.5647"
+       y="1057.5303" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-2030.3157"
+       id="text6287"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6289"
+         x="-2090.5513"
+         y="-2030.3157">Top for Form2 is 300x300x300.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2083.4023"
+       y="-1937.0707"
+       id="text6291"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6293"
+         x="-2083.4023"
+         y="-1937.0707">Base is 340mm wide (20mm gap either side)</tspan><tspan
+         sodipodi:role="line"
+         x="-2083.4023"
+         y="-1887.0707"
+         id="tspan6295">330 Deep. Top unit alighs with back of base unit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-1782.2842"
+       id="text6297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6299"
+         x="-2090.5513"
+         y="-1782.2842">Base unit has 3mm pocket for top unit. So +3 onto top unit size</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-1675.985"
+       id="text6301"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6303"
+         x="-2090.5513"
+         y="-1675.985">Each shelf needs 75mm space + 5mm shelf height = 80mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-1569.6858"
+       id="text6305"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6307"
+         x="-2090.5513"
+         y="-1569.6858">First shelf @ 30mm to allow for door lock + sensors + 3mm base offset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="224.71863"
+       y="1169.5378"
+       id="text6309"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6311"
+         x="224.71863"
+         y="1169.5378">Shelf/Tray 0: 30mm</tspan><tspan
+         sodipodi:role="line"
+         x="224.71863"
+         y="1219.5378"
+         id="tspan6313">Shelf/Tray 1: 110mm</tspan><tspan
+         sodipodi:role="line"
+         x="224.71863"
+         y="1269.5378"
+         id="tspan6315">Shelf/Tray 2: 190mm</tspan><tspan
+         sodipodi:role="line"
+         x="224.71863"
+         y="1319.5378"
+         id="tspan6317">Top: 270mm (12mm pocket)</tspan><tspan
+         sodipodi:role="line"
+         x="224.71863"
+         y="1369.5378"
+         id="tspan6319">Castle edges: 21mm total (10mm drop?)</tspan></text>
+    <g
+       id="g7500">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4144-3"
+         d="m 200.03216,-91.937444 0,35.4336 -82.04352,0 0,1037.189454 1061.99236,0 0,-1033.138654 0,-4.0508 0,-35.4336 -88.1703,0 0,35.4336 -90.1858,0 0,-35.4336 -88.17032,0 0,35.4336 -90.1838,0 0,-35.4336 -88.17232,0 0,35.4336 -90.18379,0 0,-35.4336 -88.17034,0 0,35.4336 -90.18573,0 0,-35.4336 -88.17034,0 0,35.4336 -90.1838,0 0,-35.4336 -88.1723,0 z"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6336"
+         y="-119.5354"
+         x="528.37805"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-119.5354"
+           x="528.37805"
+           id="tspan6338"
+           sodipodi:role="line">Left Hand Side</tspan></text>
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text6336-1"
+         y="151.89937"
+         x="-225.84178"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="151.89937"
+           x="-225.84178"
+           id="tspan6338-5"
+           sodipodi:role="line">Front</tspan></text>
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text6336-17"
+         y="1179.7"
+         x="-485.71402"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1179.7"
+           x="-485.71402"
+           id="tspan6338-7"
+           sodipodi:role="line">Back</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6336-17-1"
+         y="-124.10281"
+         x="944.46362"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-124.10281"
+           x="944.46362"
+           id="tspan6338-7-9"
+           sodipodi:role="line">Top</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6384"
+         y="-117.82565"
+         x="114.63227"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-117.82565"
+           x="114.63227"
+           id="tspan6386"
+           sodipodi:role="line">300 x 303</tspan></text>
+      <rect
+         y="854.12604"
+         x="117.98943"
+         height="20.259846"
+         width="1033.6458"
+         id="rect4138-2"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="570.66144"
+         x="117.98945"
+         height="20.259848"
+         width="1033.6458"
+         id="rect4138-2-0"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="287.19681"
+         x="117.98943"
+         height="20.259848"
+         width="1033.6458"
+         id="rect4138-2-8"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-17.527651"
+         x="117.98945"
+         height="41.519691"
+         width="1033.6458"
+         id="rect4138-2-1"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-1463.3866"
+       id="text6566"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6568"
+         x="-2090.5513"
+         y="-1463.3866">Back sits inside walls. TODO: Make fake front for assembly help (for clamping when gluing)</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-31"
+       width="230.31502"
+       height="53.14962"
+       x="-333.97195"
+       y="240.52748" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-335.16669"
+       y="211.84853"
+       id="text4140-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142-4"
+         x="-335.16669"
+         y="211.84853">Route (1mm)</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-31-1"
+       width="230.31505"
+       height="53.149628"
+       x="-335.40051"
+       y="100.78602" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4d4e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-337.75385"
+       y="66.685188"
+       id="text4140-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142-4-3"
+         x="-337.75385"
+         y="66.685188">Overlap </tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 283.46484,-2607.8753 0,35.9336 -88.58203,0 0,-35.9316 -88.58398,0 0,43.0078 0.5,0 0,1030.1133 976.95317,0 0,-1033.1426 0.5019,0 0,-39.9785 -88.58398,0 0,35.9316 -92.12695,0 0,-35.9316 -88.58203,0 0,35.9316 -88.58203,0 0,-35.9316 -88.58399,0 0,35.9316 -88.58203,0 0,-35.9336 -88.58203,0 0,35.9336 -88.58398,0 0,-35.9336 -88.58204,0 z"
+       id="rect4144-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.74699"
+       y="-2632.9485"
+       id="text6630"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="139.74699"
+         y="-2632.9485"
+         id="tspan6634">276x303</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="887.88202"
+       y="-2632.0161"
+       id="text6638"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6640"
+         x="887.88202"
+         y="-2632.0161">Back Panel</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-2"
+       width="1001.7448"
+       height="20.259848"
+       x="95.831833"
+       y="-1655.3301" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-0-8"
+       width="1004.602"
+       height="20.25985"
+       x="88.688988"
+       y="-1938.7947" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-8-3"
+       width="1008.8876"
+       height="20.25985"
+       x="87.260406"
+       y="-2222.259" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-1-2"
+       width="994.60193"
+       height="41.519695"
+       x="101.54613"
+       y="-2526.9836" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130.11047,-1328.9876 0,35.4336 0,8.5977 0,1028.59194 1061.99223,0 0,-1037.18964 -88.582,0 0,-35.4336 -87.5819,0 0,35.4336 -89.58413,0 0,-35.4336 -87.582,0 0,35.4336 -89.5821,0 0,-35.4336 -87.584,0 0,35.4336 -89.5821,0 0,-35.4336 -87.582,0 0,35.4336 -89.584,0 0,-35.4336 -87.582,0 0,35.4336 -89.5821,0 0,-35.4336 -87.5839,0 z"
+       id="rect4144-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540.5"
+       y="-1356.8784"
+       id="text6336-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6338-6"
+         x="540.5"
+         y="-1356.8784">Right Hand Side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="731.38959"
+       y="1247.6371"
+       id="text6336-1-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6338-5-1"
+         x="731.38959"
+         y="1247.6371">Front</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="956.58545"
+       y="-1361.446"
+       id="text6336-17-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6338-7-9-5"
+         x="956.58545"
+         y="-1361.446">Top</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="126.75404"
+       y="-1355.1687"
+       id="text6384-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6386-2"
+         x="126.75404"
+         y="-1355.1687">300 x 303</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-89"
+       width="1033.6458"
+       height="20.259848"
+       x="158.45692"
+       y="-383.21692" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-0-2"
+       width="1033.6458"
+       height="20.25985"
+       x="158.45692"
+       y="-666.68213" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-8-8"
+       width="1033.6458"
+       height="20.25985"
+       x="158.45692"
+       y="-950.14618" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-2-1-9"
+       width="1033.6458"
+       height="41.519695"
+       x="158.45692"
+       y="-1254.8708" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2090.5513"
+       y="-1357.0874"
+       id="text6917"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6919"
+         x="-2090.5513"
+         y="-1357.0874">No hinge recess - should be mounted on outside of door/side with screw heads </tspan><tspan
+         sodipodi:role="line"
+         x="-2090.5513"
+         y="-1307.0874"
+         id="tspan6921">visible. Need to account for bolts in side panel or tap acrylic.</tspan><tspan
+         sodipodi:role="line"
+         x="-2090.5513"
+         y="-1257.0874"
+         id="tspan6923">Door: 3mm Acrylic</tspan><tspan
+         sodipodi:role="line"
+         x="-2090.5513"
+         y="-1207.0874"
+         id="tspan6925">Hinge screws 60mm spacing</tspan></text>
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7215"
+       cx="-2019.6851"
+       cy="-471.26007"
+       r="106.29922" />
+    <circle
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7217"
+       cx="-2019.6853"
+       cy="-471.26007"
+       r="53.149605" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1708.5563"
+       y="1070.6997"
+       id="text7293"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7295"
+         x="-1708.5563"
+         y="1070.6997"
+         style="font-size:70.00000763px">Datum point: 0-3mm in, 40mm up from bottom</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144-9"
+       width="998.21259"
+       height="1030.1024"
+       x="1901.265"
+       y="-2480.2798" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1895.6696"
+       y="-2511.6145"
+       id="text7447"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7449"
+         x="1895.6696"
+         y="-2511.6145">282x291</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2807.2939"
+       y="-2630.8125"
+       id="text7451"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7453"
+         x="2807.2939"
+         y="-2630.8125">Top shelf</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144-9-1"
+       width="998.21259"
+       height="514.55115"
+       x="-1050.0116"
+       y="-1785.3414"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999988;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144-9-1-1"
+       width="998.21259"
+       height="514.55115"
+       x="15.932707"
+       y="-1778.1931"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1235.3402"
+       y="-1093.2037"
+       id="text7447-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7449-4"
+         x="1235.3402"
+         y="-1093.2037">282x(291/2) - Half top shelf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1248.2391"
+       y="-5.6571302"
+       id="text7447-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7449-4-6"
+         x="1248.2391"
+         y="-5.6571302">282x145.5 (291/2) - Half top shelf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1346.4567"
+       y="-10.630393"
+       id="text5430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5432"
+         x="1346.4567"
+         y="-10.630393"></tspan></text>
+  </g>
+</svg>
