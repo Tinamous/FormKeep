@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1243.9406"
-     inkscape:cy="2098.6823"
+     inkscape:cx="1423.7779"
+     inkscape:cy="153.98922"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -445,14 +445,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="95.10997"
-       y="1157.7283"
+       x="539.57715"
+       y="1181.9719"
        id="text5935"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5937"
-         x="95.10997"
-         y="1157.7283">Ribon cable for front panel: 22mm wide, 1mm deep</tspan></text>
+         x="539.57715"
+         y="1181.9719">Ribon cable for front panel: 22mm wide, 1mm deep (give 2-3mm for </tspan><tspan
+         sodipodi:role="line"
+         x="539.57715"
+         y="1231.9719"
+         id="tspan5458">MDF board depth tollerance</tspan></text>
     <rect
        style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4138-31"
@@ -572,5 +576,16 @@
          x="-1709.178"
          y="1068.5243"
          style="font-size:70.00000763px">Datum point: 0-3mm in, 40mm up from bottom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2.7487949e-005"
+       y="1351.3666"
+       id="text5454"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5456"
+         x="-2.7487949e-005"
+         y="1351.3666">Bug: Hinge recess - not needed. Hinge goes on bottom of the box.</tspan></text>
   </g>
 </svg>
