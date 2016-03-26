@@ -17,23 +17,27 @@ Features:
 
 
 Construction:
-* Units made of 12mm MDF (2 sheets 600x1200mm)
+* Top and bottom units are made of 12mm MDF (2 sheets 600x1200mm)
 * Door on base made from 18mm MDF
-* Feet made from 12mm MDF clued to base, then adjustable feet set into that
+* Feet made from 12mm MDF glued to base, then adjustable feet set into that
 * Door for top unit made with 3mm acrylic
 * Shelfs made with 5mm acrylic, colour to match the resin
 * Front door panel 3mm clear acrylic
-* Fan panel made with 3mm acrylic (ideally a scrap piece as it's not seen).
-* Fan is 80mm PC fan (with yellow pulse wire ignored).
-* Base panel 3mm acrylic. Can be any color.
+** 3D printed support for 12 pixel NeoPixel ring for count down timer
+* Fan panel made with 3mm acrylic (ideally a scrap piece as it's not seen)
+* Fan is 80mm PC fan (with yellow pulse wire ignored)
+* Base panel 3mm acrylic. Can be any color
+* Inside is coated with tin foil (glued to the MDF) to help reflect the UV rays
 
-Cut using CNC router (may be cut by hand etc if no CNC available).
+Cut using CNC router, can be hand cut if no CNC available using the svg files as cutting plans.
 
 Roundovers done by hand router as it's quicker. 
-* Bottom of the base unit has large round over on each side. 
+* Bottom of the base unit has large round over on each side coming out thought the door but not along door.
 * Top of base unit has small round over on sides and front of door.
 
-Paint base unit grey and top unit orange.
+Painting:
+* Base unit grey (The grey in the picture is actually just undercoat which works well).
+* Top unit orange
 
 Electronics:
 * Uses V2.00 Kitchen Lights Controller from https://github.com/Tinamous/KitchenLightsController
