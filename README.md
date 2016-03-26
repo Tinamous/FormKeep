@@ -3,7 +3,7 @@ Form Keep
 
 A UV exposure box and Tray store (to keep your trays in) for the Form 1, 1+ and 2 printers.
 
-![Form Keep UV box and tray storage](https://github.com/Tinamous/FormKeep/tree/master/Images/FormKeep-2016-03-25-InProgress.png "Form Keep UV box and tray storage - In Progress")
+![Form Keep UV box and tray storage][MainPicture]
 
 
 Features:
@@ -66,3 +66,6 @@ Bugs
 * Front foor, opening is far to big (much bigger than Form2 display).
 * Ribon cable pocket is not deep enough on base.
 * Top shelf currently split in 2 which is not ideal for stopping the light get into the top resin tray. Needs an extra sheet.
+
+
+[MainPicture]: https://github.com/Tinamous/FormKeep/raw/master/Images/FormKeep-2016-03-25-InProgress.png "Form Keep UV box and tray storage - In Progress"
