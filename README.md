@@ -3,6 +3,9 @@ Form Keep
 
 A UV exposure box and Tray store (to keep your trays in) for the Form 1, 1+ and 2 printers.
 
+![Form Keep UV box and tray storage](https://github.com/Tinamous/FormKeep/tree/master/Images/FormKeep-2016-03-25-InProgress.png "Form Keep UV box and tray storage - In Progress")
+
+
 Features:
 * UV exposure in base unit on 30 minute timer with countdown "clock" style neopixel display on front door.
 * 3x shelfs for tray storage.
