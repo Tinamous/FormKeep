@@ -19,7 +19,7 @@ NeoPixelRingOuterDiameter = 38; // mm
 NeoPixelRingInnerDiameter = 23; // mm
 
 Height = NeoPixelRingOuterDiameter + 10 + 17; // 5mm top/bottom.
-Depth = 6; // mm
+Depth = 8; // mm
 
 NeoPixelXPosition = 110; 
 NeoPixelYPosition = Height / 2; //24mm from the top. // Height / 2;
@@ -28,7 +28,7 @@ NeoPixelHeight = 4.5; // mm - includes wires (& probably hotmelt)
 module frontPanelInsert() {
     difference() {
         union() {
-            cube([PanelWidth, Height, 5]);
+            cube([PanelWidth, Height, Depth]);
         }
         union() {
             // Mounting holes
@@ -77,6 +77,29 @@ module frontPanelInsert() {
                     cylinder(d=NeoPixelRingOuterDiameter, h=Depth, centre=true);
                 }
             }
+            
+            // cut out for Hall Effect door sensor.
+            magnetHeightAllowance = 2; // mm
+            translate([PanelWidth-10, Height-magnetHeightAllowance, 0]) {
+                // Cut out all the way trough to allow for the magnet offset from 
+                // the lid of the unit.
+                #cube([10, magnetHeightAllowance, 10]);
+                
+                // Make a pocket for the hall effect device.
+                // Move in slightly to allow for x-axis error on magnet alignment.
+                // Move down slightly to allow for a wall on the panel
+                // Move up down so as to not cut all the way through the panel.
+                // and mount it at the back of the panel
+                translate([2, -3, 2]) {
+                    // Hall effect is about 1.6mm deep
+                    #cube([10, 1.5, Depth-2]);
+                }
+            }
+            
+            // DEGUB!
+            // Chop out most of the panel to get just the hall effect section
+            // in order to test print
+            cube([PanelWidth-15, Height, Depth]);
         }
     }
 }

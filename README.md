@@ -71,5 +71,7 @@ Bugs
 * Ribon cable pocket is not deep enough on base.
 * Top shelf currently split in 2 which is not ideal for stopping the light get into the top resin tray. Needs an extra sheet.
 
+Timing: See http://formlabs.com/support/finishing/post-curing-prints/
+
 
 [MainPicture]: https://github.com/Tinamous/FormKeep/raw/master/Images/FormKeep-2016-03-25-InProgress.png "Form Keep UV box and tray storage - In Progress"

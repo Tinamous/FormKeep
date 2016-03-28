@@ -12,6 +12,10 @@ blockKeyWidth = 6;
 
 blockDepth = 6;
 
+// 1 == Single
+// 2 == Double with middle strip.
+blockType = 2;
+
 $fn=50;
 
 module ledGrip() {
@@ -62,7 +66,7 @@ length = (blockCount * blockSize) + 5 ;
                     
                     // Large hole for head of screw
                     translate([0,0,3]) { 
-                        cylinder(d=4.4,h=blockDepth-3);
+                        cylinder(d=6,h=blockDepth-3);
                     }
                     
                 }
@@ -99,5 +103,9 @@ length = (blockCount * blockSize) + 5 ;
 //block(2, 0.5, true);
 //block(2, 0.5, false);
 
-block(1, 0.5, false);
+if (blockType == 1) {
+    block(1, 0.5, false);
+} else if (blockType == 2) {
+    block(2, 0.5, true);
+}
 
